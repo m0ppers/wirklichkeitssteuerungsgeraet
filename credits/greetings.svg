@@ -132,8 +132,8 @@
 
   </g>
   <g style="font-size:120px;font-family:Cycle;fill:#ffffff;">
-    <text x="-50" y="200">code,stunts</text>
-    <text x="-50" y="300">mop</text>
+    <text x="50" y="200">code,stunts</text>
+    <text x="50" y="300">mop</text>
     <text x="1870" y="200" text-anchor="end">music</text>
     <text x="1870" y="300" text-anchor="end">t.b.d.</text>
   </g>
