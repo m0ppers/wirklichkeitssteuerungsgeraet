@@ -1,0 +1,227 @@
+(pcb "C:\Users\Andreas Streichardt\Documents\amiga-joystick-clicker-hardware\joystick.dsn"
+  (parser
+    (string_quote ")
+    (space_in_quoted_tokens on)
+    (host_cad "KiCad's Pcbnew")
+    (host_version "4.0.4-stable")
+  )
+  (resolution um 10)
+  (unit um)
+  (structure
+    (layer F.Cu
+      (type signal)
+      (property
+        (index 0)
+      )
+    )
+    (layer B.Cu
+      (type signal)
+      (property
+        (index 1)
+      )
+    )
+    (boundary
+      (rect pcb 119427 -72115 159973 -122845)
+    )
+    (via "Via[0-1]_600:400_um")
+    (rule
+      (width 250)
+      (clearance 200.1)
+      (clearance 200.1 (type default_smd))
+      (clearance 50 (type smd_smd))
+    )
+  )
+  (placement
+    (component Connectors:DB9MC
+      (place J1 139700 -96520 front 0 (PN DB9))
+    )
+    (component Pin_Headers:Pin_Header_Straight_1x07_Pitch2.54mm
+      (place P1 124460 -104140 front 0 (PN CONN_01X07))
+      (place P2 154940 -104140 front 0 (PN CONN_01X07))
+    )
+    (component Resistors_THT:Resistor_Horizontal_RM10mm
+      (place R1 129540 -106680 front 270 (PN R))
+      (place R2 134620 -106680 front 270 (PN R))
+      (place R3 139700 -106680 front 270 (PN R))
+      (place R4 144780 -106680 front 270 (PN R))
+      (place R5 149860 -106680 front 270 (PN R))
+    )
+  )
+  (library
+    (image Connectors:DB9MC
+      (outline (path signal 150  -16129 -2286  16383 -2286))
+      (outline (path signal 150  16383 -2286  16383 15494))
+      (outline (path signal 150  16383 15494  -16129 15494))
+      (outline (path signal 150  -16129 15494  -16129 -2286))
+      (outline (path signal 150  -9017 15494  -9017 7874))
+      (outline (path signal 150  -9017 7874  9271 7874))
+      (outline (path signal 150  9271 7874  9271 15494))
+      (outline (path signal 150  -7493 15494  -7493 24130))
+      (outline (path signal 150  -7493 24130  7747 24130))
+      (outline (path signal 150  7747 24130  7747 15494))
+      (pin Round[A]Pad_3810_um @1 12827 1270)
+      (pin Round[A]Pad_3810_um @2 -12573 1270)
+      (pin Rect[A]Pad_1524x1524_um 1 5588 -1270)
+      (pin Round[A]Pad_1524_um 2 2794 -1270)
+      (pin Round[A]Pad_1524_um 3 0 -1270)
+      (pin Round[A]Pad_1524_um 4 -2667 -1270)
+      (pin Round[A]Pad_1524_um 5 -5461 -1270)
+      (pin Round[A]Pad_1524_um 9 -4064 1270)
+      (pin Round[A]Pad_1524_um 8 -1270 1270)
+      (pin Round[A]Pad_1524_um 7 1397 1270)
+      (pin Round[A]Pad_1524_um 6 4191 1270)
+    )
+    (image Pin_Headers:Pin_Header_Straight_1x07_Pitch2.54mm
+      (outline (path signal 100  -1270 1270  -1270 -16510))
+      (outline (path signal 100  -1270 -16510  1270 -16510))
+      (outline (path signal 100  1270 -16510  1270 1270))
+      (outline (path signal 100  1270 1270  -1270 1270))
+      (outline (path signal 120  -1390 -1270  -1390 -16630))
+      (outline (path signal 120  -1390 -16630  1390 -16630))
+      (outline (path signal 120  1390 -16630  1390 -1270))
+      (outline (path signal 120  1390 -1270  -1390 -1270))
+      (outline (path signal 120  -1390 0  -1390 1390))
+      (outline (path signal 120  -1390 1390  0 1390))
+      (outline (path signal 50  -1600 1600  -1600 -16800))
+      (outline (path signal 50  -1600 -16800  1600 -16800))
+      (outline (path signal 50  1600 -16800  1600 1600))
+      (outline (path signal 50  1600 1600  -1600 1600))
+      (pin Rect[A]Pad_1700x1700_um 1 0 0)
+      (pin Oval[A]Pad_1700x1700_um 2 0 -2540)
+      (pin Oval[A]Pad_1700x1700_um 3 0 -5080)
+      (pin Oval[A]Pad_1700x1700_um 4 0 -7620)
+      (pin Oval[A]Pad_1700x1700_um 5 0 -10160)
+      (pin Oval[A]Pad_1700x1700_um 6 0 -12700)
+      (pin Oval[A]Pad_1700x1700_um 7 0 -15240)
+    )
+    (image Resistors_THT:Resistor_Horizontal_RM10mm
+      (outline (path signal 50  -1250 1500  11400 1500))
+      (outline (path signal 50  -1250 -1500  -1250 1500))
+      (outline (path signal 50  11400 1500  11400 -1500))
+      (outline (path signal 50  -1250 -1500  11400 -1500))
+      (outline (path signal 150  2540 1270  7620 1270))
+      (outline (path signal 150  7620 1270  7620 -1270))
+      (outline (path signal 150  7620 -1270  2540 -1270))
+      (outline (path signal 150  2540 -1270  2540 1270))
+      (outline (path signal 150  2540 0  1270 0))
+      (outline (path signal 150  7620 0  8890 0))
+      (pin Round[A]Pad_1998.98_um 1 0 0)
+      (pin Round[A]Pad_1998.98_um 2 10160 0)
+    )
+    (padstack Round[A]Pad_1524_um
+      (shape (circle F.Cu 1524))
+      (shape (circle B.Cu 1524))
+      (attach off)
+    )
+    (padstack Round[A]Pad_1998.98_um
+      (shape (circle F.Cu 1998.98))
+      (shape (circle B.Cu 1998.98))
+      (attach off)
+    )
+    (padstack Round[A]Pad_3810_um
+      (shape (circle F.Cu 3810))
+      (shape (circle B.Cu 3810))
+      (attach off)
+    )
+    (padstack Oval[A]Pad_1700x1700_um
+      (shape (path F.Cu 1700  0 0  0 0))
+      (shape (path B.Cu 1700  0 0  0 0))
+      (attach off)
+    )
+    (padstack Rect[A]Pad_1524x1524_um
+      (shape (rect F.Cu -762 -762 762 762))
+      (shape (rect B.Cu -762 -762 762 762))
+      (attach off)
+    )
+    (padstack Rect[A]Pad_1700x1700_um
+      (shape (rect F.Cu -850 -850 850 850))
+      (shape (rect B.Cu -850 -850 850 850))
+      (attach off)
+    )
+    (padstack "Via[0-1]_600:400_um"
+      (shape (circle F.Cu 600))
+      (shape (circle B.Cu 600))
+      (attach off)
+    )
+  )
+  (network
+    (net "Net-(J1-Pad1)"
+      (pins J1-1 R5-1)
+    )
+    (net "Net-(J1-Pad2)"
+      (pins J1-2 R3-1)
+    )
+    (net "Net-(J1-Pad3)"
+      (pins J1-3 R2-1)
+    )
+    (net "Net-(J1-Pad4)"
+      (pins J1-4 R1-1)
+    )
+    (net "Net-(J1-Pad5)"
+      (pins J1-5)
+    )
+    (net "Net-(J1-Pad9)"
+      (pins J1-9)
+    )
+    (net "Net-(J1-Pad8)"
+      (pins J1-8 P2-7)
+    )
+    (net "Net-(J1-Pad7)"
+      (pins J1-7 P2-6)
+    )
+    (net "Net-(J1-Pad6)"
+      (pins J1-6 R4-1)
+    )
+    (net "Net-(P1-Pad1)"
+      (pins P1-1 R1-2)
+    )
+    (net "Net-(P1-Pad2)"
+      (pins P1-2 R2-2)
+    )
+    (net "Net-(P1-Pad3)"
+      (pins P1-3 R3-2)
+    )
+    (net "Net-(P1-Pad4)"
+      (pins P1-4 R4-2)
+    )
+    (net "Net-(P1-Pad5)"
+      (pins P1-5 R5-2)
+    )
+    (net "Net-(P1-Pad6)"
+      (pins P1-6)
+    )
+    (net "Net-(P1-Pad7)"
+      (pins P1-7)
+    )
+    (net "Net-(P2-Pad1)"
+      (pins P2-1)
+    )
+    (net "Net-(P2-Pad2)"
+      (pins P2-2)
+    )
+    (net "Net-(P2-Pad3)"
+      (pins P2-3)
+    )
+    (net "Net-(P2-Pad4)"
+      (pins P2-4)
+    )
+    (net "Net-(P2-Pad5)"
+      (pins P2-5)
+    )
+    (class kicad_default "" "Net-(J1-Pad1)" "Net-(J1-Pad2)" "Net-(J1-Pad3)"
+      "Net-(J1-Pad4)" "Net-(J1-Pad5)" "Net-(J1-Pad6)" "Net-(J1-Pad7)" "Net-(J1-Pad8)"
+      "Net-(J1-Pad9)" "Net-(P1-Pad1)" "Net-(P1-Pad2)" "Net-(P1-Pad3)" "Net-(P1-Pad4)"
+      "Net-(P1-Pad5)" "Net-(P1-Pad6)" "Net-(P1-Pad7)" "Net-(P2-Pad1)" "Net-(P2-Pad2)"
+      "Net-(P2-Pad3)" "Net-(P2-Pad4)" "Net-(P2-Pad5)"
+      (circuit
+        (use_via Via[0-1]_600:400_um)
+      )
+      (rule
+        (width 250)
+        (clearance 200.1)
+      )
+    )
+  )
+  (wiring
+  )
+)

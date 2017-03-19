@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100%"
+   height="100%"
+   viewBox="0 0 1920 1080"
+   id="svg2"
+   version="1.1"
+   onload="main()"
+   style="background-color: black"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="greetings.1.svg">
+  <script
+     xlink:href="tween.js"
+     type="text/javascript"
+     id="script4755" />
+  <script
+     xlink:href="script.js"
+     type="text/javascript"
+     id="script4755" />
+  <defs
+     id="defs4757">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:360px;line-height:125%;font-family:Cycle;-inkscape-font-specification:'Cycle, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#ff7f2a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2000"
+       y="1000"
+       id="credits">alpha raid    Haujobb    Level 90    Poo-brain    Rift    SunSpire    TRSI   T$    Wanted Team    XayaX</text>
+      <path
+     style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:15.89999962;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 0 0 H 300 Z"
+     id="spot-animation"
+     inkscape:connector-curvature="0" />
+    <clipPath
+       id="credits-clip" >
+      <use
+         x="0"
+         y="0"
+         xlink:href="#credits"
+         id="use4761" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.32"
+     inkscape:cx="-248.9964"
+     inkscape:cy="946.60251"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg2"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px"
+     borderlayer="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g id="credits-greetings">
+  <use
+     x="0"
+     y="0"
+     xlink:href="#credits"
+     id="use4765" />
+  <circle
+     style="opacity:1;fill:#0000ff;fill-opacity:0.7462685;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="spot"
+     cx="100"
+     cy="1000"
+     r="250"
+     clip-path="url(#credits-clip)">
+  </circle>
+  <g transform="translate(960,390)">
+    <circle r="250" fill="white" stroke="blue" stroke-width="20"/>
+    <image xlink:href="seal.svg" x="-250" y="-250" width="500" height="500"/>
+
+  <g id="aa" style="font-size:70px;font-family:Cycle;fill:#ffe680;">
+  <text text-anchor="middle" dominant-baseline="middle">A</text>
+  <text text-anchor="middle" dominant-baseline="middle">K</text>
+  <text text-anchor="middle" dominant-baseline="middle">R</text>
+  <text text-anchor="middle" dominant-baseline="middle">O</text>
+  <text text-anchor="middle" dominant-baseline="middle">N</text>
+  <text text-anchor="middle" dominant-baseline="middle">Y</text>
+  <text text-anchor="middle" dominant-baseline="middle">M</text>
+  <text text-anchor="middle" dominant-baseline="middle">E</text>
+  <text text-anchor="middle" dominant-baseline="middle"> </text>
+  <text text-anchor="middle" dominant-baseline="middle">A</text>
+  <text text-anchor="middle" dominant-baseline="middle">N</text>
+  <text text-anchor="middle" dominant-baseline="middle">A</text>
+  <text text-anchor="middle" dominant-baseline="middle">L</text>
+  <text text-anchor="middle" dominant-baseline="middle">O</text>
+  <text text-anchor="middle" dominant-baseline="middle">G</text>
+  <text text-anchor="middle" dominant-baseline="middle">I</text>
+  <text text-anchor="middle" dominant-baseline="middle">K</text>
+  <text text-anchor="middle" dominant-baseline="middle">E</text>
+  <text text-anchor="middle" dominant-baseline="middle">R</text>
+  <text text-anchor="middle" dominant-baseline="middle"> </text>
+  <text text-anchor="middle" dominant-baseline="middle">&#128169;</text>
+  <text text-anchor="middle" dominant-baseline="middle"> </text>
+  <text text-anchor="middle" dominant-baseline="middle">&#127866;</text>
+  <text text-anchor="middle" dominant-baseline="middle"> </text>
+  <text text-anchor="middle" dominant-baseline="middle">&#128169;</text>
+  <text text-anchor="middle" dominant-baseline="middle"> </text>
+  </g>
+
+  </g>
+  <g style="font-size:120px;font-family:Cycle;fill:#ffffff;">
+    <text x="-50" y="200">code,stunts</text>
+    <text x="-50" y="300">mop</text>
+    <text x="1870" y="200" text-anchor="end">music</text>
+    <text x="1870" y="300" text-anchor="end">t.b.d.</text>
+  </g>
+  </g>
+  <g id="special-thanks" opacity="0">
+    <g style="font-size:120px;font-family:Cycle;fill:#ffffff;">
+      <text x="960" y="200" text-anchor="middle">SPECIAL THANKS</text>
+      <text x="960" y="400" text-anchor="middle">slider for the camera</text>
+      <text x="960" y="520" text-anchor="middle">Userlike GmbH for hosting</text>
+      <text x="960" y="600" text-anchor="middle">the motorcycle in their offices</text>
+    </g>
+  </g>
+</svg>

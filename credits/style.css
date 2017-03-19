@@ -1,0 +1,37 @@
+@keyframes rect {
+    0% {transform: none;}
+    50% {transform: matrix(1.0, 1.0, 0, 1.0, 40, 0)}
+    /*5% {transform: matrix(1.0, 2, 0, 1.0, 40, -40)}
+    45% {transform: matrix(2.0, 0, 2, 1.0, 40, 20)}
+    60% {transform: matrix(2.0, 5, 3, 1.0, 120, 0)}    
+    */
+    100% {transform: none;}
+}
+
+@keyframes spot {
+    0% {transform: none;}
+    50% {transform: matrix(1.0, 1.0, 0, 1.0, 40, 0)}
+    /*5% {transform: matrix(1.0, 2, 0, 1.0, 40, -40)}
+    45% {transform: matrix(2.0, 0, 2, 1.0, 40, 20)}
+    60% {transform: matrix(2.0, 5, 3, 1.0, 120, 0)}    
+    */
+    100% {transform: none;}
+}
+
+@keyframes credits-scroller {
+    from {transform: translateX(0px)}
+    to {transform: translateX(-20000px)}
+}
+
+rect {
+    fill: blue;
+    /*animation: rect 5s ease infinite;*/
+}
+
+text#credits {
+    animation: credits-scroller 50s ease infinite;
+}
+
+circlea#spot {
+    /*animation: spot 5s ease infinite;*/
+}
