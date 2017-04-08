@@ -97,7 +97,7 @@ let animateCredits = function() {
     };
 
     var tween = new TWEEN.Tween(c);
-    tween.to({x: -15500}, scrollerTime);
+    tween.to({x: -17500}, scrollerTime);
     tween.onUpdate(updateFn);
     tween.start();
     return new Promise((resolve, reject) => {
@@ -160,7 +160,7 @@ let main = function() {
         })
         .then(() => {
             return new Promise((resolve, reject) => {
-                setTimeout(resolve, 5000);
+                setTimeout(resolve, 5500);
             })
         })
         .then(() => {

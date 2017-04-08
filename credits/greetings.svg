@@ -32,7 +32,7 @@
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:360px;line-height:125%;font-family:Cycle;-inkscape-font-specification:'Cycle, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#ff7f2a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="2000"
        y="1000"
-       id="credits">alpha raid    Haujobb    Level 90    Poo-brain    Rift    SunSpire    TRSI   T$    Wanted Team    XayaX</text>
+       id="credits">alpha raid    Haujobb    Level 90    Poo-brain    Rift    Subground4    SunSpire    TRSI   T$    Wanted Team    XayaX</text>
       <path
      style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:15.89999962;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 0 0 H 300 Z"
@@ -135,14 +135,14 @@
     <text x="50" y="200">code,stunts</text>
     <text x="50" y="300">mop</text>
     <text x="1870" y="200" text-anchor="end">music</text>
-    <text x="1870" y="300" text-anchor="end">t.b.d.</text>
+    <text x="1870" y="300" text-anchor="end">subdream</text>
   </g>
   </g>
   <g id="special-thanks" opacity="0">
     <g style="font-size:120px;font-family:Cycle;fill:#ffffff;">
       <text x="960" y="200" text-anchor="middle">SPECIAL THANKS</text>
       <text x="960" y="400" text-anchor="middle">slider for the camera</text>
-      <text x="960" y="520" text-anchor="middle">Userlike GmbH for hosting</text>
+      <text x="960" y="520" text-anchor="middle">Userlike UG for hosting</text>
       <text x="960" y="600" text-anchor="middle">the motorcycle in their offices</text>
     </g>
   </g>
