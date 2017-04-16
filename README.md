@@ -36,7 +36,7 @@ This is also a wild (heh) language zoo :D
 
   Simple fritzing layout of wirklichkeitssteuerungsgeraet. This was quickly put together at the party and is not to be trusted. Also some parts are missing because I fail to create
   proper parts in fritzing. The real MCP2515 also has CAN L and CAN H. These should be connected to the motorcycle connector. You also have to apply a 120 Ohm resistor to the CAN§
-  wiring (the speedometer is a terminating node) - the resistor should be available on your board.
+  wiring (the speedometer is a terminating node) - the resistor should be available on your board. Once assembled this thing should be connected to the amiga-joystick-click-board :)
 
 - logo
 
