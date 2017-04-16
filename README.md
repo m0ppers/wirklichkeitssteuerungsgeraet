@@ -32,6 +32,12 @@ This is also a wild (heh) language zoo :D
 
     Arduino code for the BMW <=> Amiga Joystick translation :D Upload to the Arduino micro
 
+- hardware
+
+  Simple fritzing layout of wirklichkeitssteuerungsgeraet. This was quickly put together at the party and is not to be trusted. Also some parts are missing because I fail to create
+  proper parts in fritzing. The real MCP2515 also has CAN L and CAN H. These should be connected to the motorcycle connector. You also have to apply a 120 Ohm resistor to the CAN§
+  wiring (the speedometer is a terminating node) - the resistor should be available on your board.
+
 - logo
 
     The logo :S Code is more or less completely stolen from here: https://www.reaktor.com/blog/crash-course-to-amiga-assembly-programming/
